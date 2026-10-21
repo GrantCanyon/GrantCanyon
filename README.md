@@ -5,9 +5,9 @@
 
 ### Стек
 
-**Языки:** Go · C · PHP · x86 Assembly
-**Базы данных:** PostgreSQL
-**Инструменты:** Git · Linux · Make
+- **Языки:** Go · C · PHP · x86 Assembly
+- **Базы данных:** PostgreSQL
+- **Инструменты:** Git · Linux · Make
 
 ### Что знаю из учёбы
 
