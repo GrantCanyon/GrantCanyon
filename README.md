@@ -1,16 +1,20 @@
-## Hi there 👋
+## Грант Саакян
 
-<!--
-**GrantCanyon/GrantCanyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент второго курса факультета ВМК МГУ им. М. В. Ломоносова (Computational Mathematics and Cybernetics).
+Интересуюсь backend-разработкой: сервисами на Go, базами данных и тем, как всё это работает на низком уровне.
 
-Here are some ideas to get you started:
+### Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки:** Go · C · PHP · x86 Assembly
+**Базы данных:** PostgreSQL
+**Инструменты:** Git · Linux · Make
+
+### Что знаю из учёбы
+
+- алгоритмы и структуры данных, численные методы
+- системное программирование на C: процессы, файлы, работа с памятью
+- ассемблер x86 и устройство вычислений на уровне процессора
+
+### Сейчас
+
+Пишу пет-проекты на Go с PostgreSQL. Они будут появляться в закреплённых репозиториях ниже.
